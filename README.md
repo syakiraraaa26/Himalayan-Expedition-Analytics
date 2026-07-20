@@ -55,15 +55,17 @@ How can historical Himalayan expedition data be transformed into actionable insi
 
 ## Dataset
 
-The dataset used in this project was provided as part of a **RevoU Mini Course** learning material and contains historical records related to Himalayan mountaineering expeditions.
+The raw dataset used in this project was provided as part of the **RevoU Mini Course** learning material and contains historical records related to Himalayan mountaineering expeditions.
 
-The analysis uses three main datasets:
+The original dataset consists of multiple related tables. For this analysis, three main datasets were selected and processed:
 
-| Dataset | Description | Records |
+| Dataset | Description | Cleaned Records |
 |---|---|---:|
 | `exped` | Historical expedition records and expedition outcomes | 11,423 |
 | `members` | Records of expedition participants and their outcomes | 88,999 |
 | `peaks` | Information about Himalayan peaks | 480 |
+
+The record counts shown above represent the **cleaned datasets used for analysis and dashboard development**, after data preparation and cleaning in Python.
 
 The cleaned dataset covers expedition records from **1905 to 2024**.
 
