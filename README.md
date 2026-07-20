@@ -131,3 +131,10 @@ _To be finalized after reviewing the complete dashboard analysis._
 
 _To be finalized after reviewing the complete dashboard analysis._
 
+## Author
+
+**Syakira Tsania Muthmainnah**  
+Data Science Graduate | Aspiring Data Analyst & Data Scientist
+- Email : syakiratsania24@gmail.com
+This project was developed as a portfolio project to demonstrate skills in data cleaning, exploratory data analysis, data visualization, and business insights.
+
