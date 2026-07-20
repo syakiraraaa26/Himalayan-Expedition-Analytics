@@ -131,14 +131,3 @@ _To be finalized after reviewing the complete dashboard analysis._
 
 _To be finalized after reviewing the complete dashboard analysis._
 
-## Project Structure
-    Himalayan-Expedition-Analytics/
-    ├── README.md
-    ├── data/
-    │   └── Himalayan Expedition Clean.xlxs
-    ├── notebooks/
-    │   └── himalayan_expedition_analysis.ipynb
-    └── dashboard/
-        ├── 01_executive_overview.png
-        ├── 02_success_risk_analysis.png
-        └── 03_member_profile.png
