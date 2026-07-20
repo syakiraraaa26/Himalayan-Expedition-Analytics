@@ -71,6 +71,8 @@ The cleaned dataset covers expedition records from **1905 to 2024**.
 
 > **Note:** The `members` dataset contains participation records. Therefore, record counts should not necessarily be interpreted as the number of unique individuals.
 
+- **View the cleaned dataset:** [Himalayan_Expedition_Clean.xlsx](./data/Himalayan_Expedition_Clean.xlsx)
+
 ## Tools & Technologies
 
 - **Python (Pandas)** — Data cleaning, preparation, and exploratory data analysis
