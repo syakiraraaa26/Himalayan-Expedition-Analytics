@@ -131,6 +131,25 @@ _To be finalized after reviewing the complete dashboard analysis._
 
 _To be finalized after reviewing the complete dashboard analysis._
 
+## Analysis, Insights & Recommendations
+
+To answer the business questions clearly, the analysis is organized into six main themes. Each theme combines related findings, insights, and recommendations**. Rather than examining each visualization in isolation, these themes connect related findings to identify broader patterns, interpret their implications, and develop relevant recommendations.
+
+Each theme follows a structured analytical flow:
+
+**Business Question → Key Findings → Insight → Recommendation**
+
+The analysis is organized into the following themes:
+
+1. **Expedition Growth & Seasonality**
+2. **Expedition Success & Supplemental Oxygen**
+3. **Peak Elevation & Success**
+4. **Expedition Failure & Environmental Risk**
+5. **Fatality Patterns & Member Risk**
+6. **Climber Demographics & Participation**
+
+Together, these themes provide a comprehensive view of historical Himalayan expedition performance, the factors associated with expedition outcomes, major safety risks, and the characteristics of recorded expedition participants.
+
 ## Author
 
 **Syakira Tsania Muthmainnah**  
