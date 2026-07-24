@@ -259,7 +259,6 @@ GAMBAR DASHBOARD PAGES 3
 - Continue collecting member data to better understand participation trends and support future expedition planning.
 
 
-
 ## Author
 
 **Syakira Tsania Muthmainnah**  
